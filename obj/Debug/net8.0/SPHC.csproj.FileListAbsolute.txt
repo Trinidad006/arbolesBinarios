@@ -1,0 +1,14 @@
+C:\Users\Trinidad\code\arbolesBinarios\bin\Debug\net8.0\SPHC.exe
+C:\Users\Trinidad\code\arbolesBinarios\bin\Debug\net8.0\SPHC.deps.json
+C:\Users\Trinidad\code\arbolesBinarios\bin\Debug\net8.0\SPHC.runtimeconfig.json
+C:\Users\Trinidad\code\arbolesBinarios\bin\Debug\net8.0\SPHC.dll
+C:\Users\Trinidad\code\arbolesBinarios\bin\Debug\net8.0\SPHC.pdb
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.AssemblyInfoInputs.cache
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.AssemblyInfo.cs
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.csproj.CoreCompileInputs.cache
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.dll
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\refint\SPHC.dll
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.pdb
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\SPHC.genruntimeconfig.cache
+C:\Users\Trinidad\code\arbolesBinarios\obj\Debug\net8.0\ref\SPHC.dll
